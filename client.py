@@ -1,5 +1,5 @@
 """
-ftp多线程客户端
+ftp多线程客户端 第一种方案
 """
 from socket import *
 import sys, time

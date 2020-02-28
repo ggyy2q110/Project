@@ -1,5 +1,5 @@
 """
-ftp多线程服务端
+ftp多线程服务端 第一种方案
 """
 from socket import *
 from multiprocessing import Process
